@@ -23,6 +23,6 @@ The landing page presents the first opportunity to fully combine your skills in 
 * https://www.w3schools.com/jsref/event_preventdefault.asp
 * https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
 
-##Project Overview
+## Project Overview
 
-You can find the project interface here: https://mariamrashad.github.io/Udacity-Landing-Page/
+* You can find the project's interface here: https://mariamrashad.github.io/Udacity-Landing-Page/
