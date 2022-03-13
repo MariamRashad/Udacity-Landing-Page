@@ -16,7 +16,7 @@
 The landing page presents the first opportunity to fully combine your skills in HTML, CSS, and JavaScript into a large project. Aside from solidifying your skills with these three technologies, you’ll discover how best to combine them in a complex application.
 
 ## Useful resources
-* https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+* [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) 
 * https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes
 * https://developer.mozilla.org/en-US/docs/Web/API/Document/scroll_event
 * https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
