@@ -17,12 +17,12 @@ The landing page presents the first opportunity to fully combine your skills in 
 
 ## Useful resources
 * [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) 
-* https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes
-* https://developer.mozilla.org/en-US/docs/Web/API/Document/scroll_event
-* https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
-* https://www.w3schools.com/jsref/event_preventdefault.asp
-* https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
+* [How to use data attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
+* [Scroll event]( https://developer.mozilla.org/en-US/docs/Web/API/Document/scroll_event)
+* [getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
+* [event-preventdefault](https://www.w3schools.com/jsref/event_preventdefault.asp)
+* [scrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView)
 
 ## Project Overview
 
-* You can find the project's interface here: https://mariamrashad.github.io/Udacity-Landing-Page/
+* You can find the project's interface here: [Landing Page](https://mariamrashad.github.io/Udacity-Landing-Page/) 
